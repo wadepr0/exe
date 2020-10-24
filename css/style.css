@@ -1117,6 +1117,9 @@ section p {
   .gs2 .grid_hover .buttons .link_button {
     background-color: #e5493a;
   }
+  .potfolio > .container > a {
+  padding-left: 10px;
+}
 }
 
 .design {
